@@ -1,0 +1,5 @@
+
+let userName="ramesh" // camel case
+let UserName="ramesh" // Pascal case
+let user_name="ramesh" // snake case
+const MAX_SIZE=100 // Screaming snake case
