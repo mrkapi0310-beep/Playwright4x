@@ -1,0 +1,14 @@
+let String= "Hello, World!";
+console.log(String);
+console.log(String.length);
+console.log(String.toUpperCase());
+console.log(String.toLowerCase());
+console.log(String.charAt(0));
+console.log(String.charAt(7));
+console.log(String.indexOf("World"));
+console.log(String.lastIndexOf("o"));
+console.log(String.slice(0,5));
+console.log(String.substring(0,5));
+console.log(String.replace("World","Universe"));
+console.log(String.split(","));
+console.log(String[0]);
