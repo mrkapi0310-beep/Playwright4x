@@ -1,0 +1,26 @@
+{
+  "name": "playwright4x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkapi0310-beep/Playwright4x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mrkapi0310-beep/Playwright4x/issues"
+  },
+  "homepage": "https://github.com/mrkapi0310-beep/Playwright4x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
